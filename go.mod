@@ -1,3 +1,3 @@
-module github.com/adityatelange/hugo-PaperMod
+module github.com/jwogrady/hugo-theme-papermod
 
-go 1.12
+go 1.23.2
